@@ -1,4 +1,5 @@
 # DOSBox Staging (+ Pinhack patch soon...)
+## Forked from https://dosbox-staging.github.io/
     This is just the original repo clone, NO MODIFICATIONS WERE MADE YET, THIS IS A PLACEHOLDER!!!
     Pinhack patch will attempt to run some pinball games in vertical orientation and full screen (no scrolling)
 
